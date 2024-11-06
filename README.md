@@ -8,3 +8,4 @@ Fascia di Reddito	Aliquota IRPEF	Imposta sul Reddito Intermedia
 Oltre all'IRPEF, potrebbero esserci altre imposte regionali e comunali che influenzano l'imposta totale da versare, ma gli "scaglioni" si riferiscono specificamente al sistema fiscale nazionale. Questo sistema è pensato per garantire che i redditi più elevati contribuiscano con una quota maggiore rispetto a quelli più bassi.
 
 Per ulteriori dettagli, puoi visitare il sito web sottostante: scaglioniirpef.com 
+<a href="https://www.hedghogs.com">hedghogs</a>
